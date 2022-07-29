@@ -36,7 +36,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 ## Contact Me ☎️
 
 * Mail me on [Gmail](meanjaliofficials@gmail.com) 
-* Connect me on [LinkedIn](linkedin.com/in/itsanjalichaudhary)
+* Connect me on [LinkedIn](www.linkedin.com/in/itsanjalichaudhary)
 * Follow me on  [YouTube](https://www.youtube.com/channel/UCCHNi8d4aPGznZcbB1nqKEA/videos)
 * Follow me on  [Instagram](https://www.instagram.com/itsanjaliichaudhary/)
 * Follow me on  [Twitter](https://twitter.com/itsanjalich)
@@ -45,10 +45,7 @@ Thanks!! ✌️
 
 <!--
 
-<p align="center">
-<a href="https://www.youtube.com/channel/UCCHNi8d4aPGznZcbB1nqKEA/videos?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Anjali Chaudhary" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/itsanjalichaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itsanjalichaudhary" height="30" width="30" /></a>
-</p>
+
 
 
 
